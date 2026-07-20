@@ -1,4 +1,4 @@
 *.img
-*.sha2563
+*.sha256
 hash*.txt
 
