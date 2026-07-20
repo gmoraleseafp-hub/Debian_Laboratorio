@@ -1,0 +1,101 @@
+ExifTool Version Number         : 12.76
+File Name                       : CALENDARIO.jpg
+Directory                       : .
+File Size                       : 1856 kB
+File Modification Date/Time     : 2026:07:20 19:17:29+00:00
+File Access Date/Time           : 2026:07:20 19:17:35+00:00
+File Inode Change Date/Time     : 2026:07:20 19:17:29+00:00
+File Permissions                : -rw-rw-rw-
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Xiaomi
+Orientation                     : Unknown (0)
+Modify Date                     : 2026:07:20 15:12:21
+GPS Latitude Ref                : Unknown ()
+GPS Speed                       : undef
+GPS Processing Method           : 
+GPS Altitude Ref                : Above Sea Level
+GPS Speed Ref                   : Unknown ()
+GPS Longitude Ref               : Unknown ()
+GPS Time Stamp                  : 00:00:00
+GPS Date Stamp                  : 
+Camera Model Name               : Redmi Note 14
+AI Scene                        : 1
+Hdr                             : off
+Op Mode                         : 36869
+Filter Id                       : 66048
+Mirror                          : false
+Sensor Type                     : rear
+Small Picture                   : false
+Zoom Multiple                   : 1
+Offset Time Digitized           : -04:00
+ISO                             : 1250
+Focal Length In 35mm Format     : 24 mm
+Sub Sec Time Digitized          : 943
+Date/Time Original              : 2026:07:20 15:12:21
+Sub Sec Time Original           : 943
+Create Date                     : 2026:07:20 15:12:21
+Focal Length                    : 5.2 mm
+Offset Time                     : -04:00
+Exposure Time                   : 1/100
+Offset Time Original            : -04:00
+Flash                           : No Flash
+Sub Sec Time                    : 943
+Light Source                    : Unknown
+F Number                        : 1.7
+Xiaomi Model                    : Redmi Note 14
+XMP Toolkit                     : Adobe XMP Core 5.1.0-jc003
+XMP Meta                        : <?xml version='1.0' encoding='UTF-8' standalone='yes' ?><subimage offset="59859" length="39058" width="0" height="0" paddingx="0" paddingy="1674" rotation="0" /><lenswatermark offset="20801" length="11846" width="354" height="60" paddingx="80" paddingy="62" isLTR="true" /><timewatermark offset="8955" length="8955" width="386" height="58" paddingx="80" paddingy="64" isLTR="true" />
+Profile CMM Type                : 
+Profile Version                 : 4.3.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2016:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Unknown ()
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Media-Relative Colorimetric
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : 
+Profile ID                      : 0
+Profile Description             : sRGB
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Media White Point               : 0.9642 1 0.82491
+Red Tone Reproduction Curve     : (Binary data 40 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 40 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 40 bytes, use -b option to extract)
+Profile Copyright               : Google Inc. 2016
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 4000
+Image Height                    : 1800
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Aperture                        : 1.7
+Image Size                      : 4000x1800
+Megapixels                      : 7.2
+Scale Factor To 35 mm Equivalent: 4.6
+Shutter Speed                   : 1/100
+Create Date                     : 2026:07:20 15:12:21.943-04:00
+Date/Time Original              : 2026:07:20 15:12:21.943-04:00
+Modify Date                     : 2026:07:20 15:12:21.943-04:00
+GPS Date/Time                   :  00:00:00Z
+GPS Latitude                    : 
+GPS Longitude                   : 
+Circle Of Confusion             : 0.007 mm
+Field Of View                   : 73.7 deg
+Focal Length                    : 5.2 mm (35 mm equivalent: 24.0 mm)
+Hyperfocal Distance             : 2.46 m
+Light Value                     : 4.5
